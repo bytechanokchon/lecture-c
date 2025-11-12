@@ -1,2 +1,2 @@
 ## Lecture C Programming Language
-This lecture [Udemy from](https://www.udemy.com/course/c-programming-for-beginners-/)
+This lecture from [Udemy](https://www.udemy.com/course/c-programming-for-beginners-/)
